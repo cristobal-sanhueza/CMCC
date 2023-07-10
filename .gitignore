@@ -13,6 +13,7 @@
 !*.r
 !*.R
 !*.Rmd
+!*.rmd
 !*.macro
 !*.code
 !*.ipynb
