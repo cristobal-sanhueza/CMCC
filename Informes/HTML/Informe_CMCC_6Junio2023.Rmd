@@ -405,7 +405,7 @@ IOA: Índice de acuerdo (Index of Agreement)
 
 <br>
 
-La Figura 3.2 muestra la serie de tiempo de la Velocidad del viento (m/s) medida y modelada en la estación Campamento. De ella se observa que el modelo de pronóstico meteorológico logra reproducir satisfactoriamente el ciclo diario y la tendencia de la velocidad del viento. Hay que tener presente que durante la primera mitad del mes, los datos observados marcaron 0,28 m/s para todas las horas, evidenciando un error en la medida del monitor.
+La Figura 3.2 muestra la serie de tiempo de la Velocidad del viento (m/s) medida y modelada en la estación Campamento. De ella se observa que el modelo de pronóstico meteorológico logra reproducir satisfactoriamente el ciclo diario y la tendencia de la velocidad del viento.
 
 <div style="text-align: center;">
 
@@ -432,7 +432,8 @@ Velocidad_longer %>%
 
 <br>
 
-El análisis estadístico de la velocidad del viento observada y medida en la estación Campamento se muestra en la Tabla III.2. De ella se observa que los estadísticos fueron afectados por el error de registro por parte del monitor de datos observados.
+El análisis estadístico de la velocidad del viento observada y medida en la estación Campamento se muestra en la Tabla III.2. De ella se observa que existe un buen ajuste del modelo.
+
 <br>
 
 <div style="text-align: center;">
